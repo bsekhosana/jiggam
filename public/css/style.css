@@ -11,8 +11,8 @@ img {
 	max-width: 100%;
 }
 p {
-	font-size: 13px;
-	line-height: 18px;
+	font-size: 18px;
+	line-height: 19px;
 }
 a, a:hover, a:focus {
 	outline: none;
@@ -510,12 +510,15 @@ a, button, .button, .price-box, .service_tiem, .pmask, .pimg-wrap img {
 }
 .who_weare {
 	position: relative;
+	text-align: -webkit-center;
 	width: 100%;
+	margin-top: -50px;
+
 }
 .whbanner {
 	position: relative;
-	width: 100%;
-	margin-bottom: 25px;
+	width: 35%;
+	margin-bottom: 10px;
 }
 .left-control, .right-control {
 	width: 25px;

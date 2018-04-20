@@ -226,7 +226,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-12">
                 <div class="about_item">
                     <h3 class="about_title hilight">WHO WE ARE</h3>
                     <div class="who_weare">
@@ -242,15 +242,15 @@
                             </div>
                             <!--/carousel-inner-->
                             <a class="left-control" href="#whBanner" data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="right-control" href="#whBanner" data-slide="next"><i class="fa  fa-angle-right"></i></a> </div>
-                        <p>We are a 100% black owned company, aiming at uplifting the community by offering optimum service.</p>
-                        <p>The ultimate vision is to obtain a crime free society of people who can create various money making ideas, driven by passion</p>
+                        <p style="font-size: 18px;line-height: 19px;">We are a 100% black owned company, aiming at uplifting the community by offering optimum service.</p>
+                        <p style="font-size: 18px;line-height: 19px;">The ultimate vision is to obtain a crime free society of people who can create various money making ideas, driven by passion</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="choos_us">
-                    <h3  class="about_title">MEET OUR CEO</h3>
-                    <div class="whchoise">
+            {{--<div class="col-md-4">--}}
+                {{--<div class="choos_us">--}}
+                    {{--<h3  class="about_title">MEET OUR CEO</h3>--}}
+                    {{--<div class="whchoise">--}}
                         {{--<p>We are proud and passionate about who we are and what we do.</p>--}}
                         {{--<p>Act with honesty and integrity while promoting an entrepreneurial and innovative mindset.</p>--}}
                         {{--<p>We also treasure diversaty and are performance driven.</p>--}}
@@ -260,22 +260,22 @@
 
                         {{--</div>--}}
 
-                        <div class="member">
-                            <div class="photo"> <img  src="images/jiggamansmall.png" alt="" class="img-circle"  /> </div>
-                            <div class="info">
-                                <h4 class="name">Jigga Man</h4>
-                                <span class="designation">Chief Executive Officer</span>
+                        {{--<div class="member">--}}
+                            {{--<div class="photo"> <img  src="images/jiggamansmall.png" alt="" class="img-circle"  /> </div>--}}
+                            {{--<div class="info">--}}
+                                {{--<h4 class="name">Jigga Man</h4>--}}
+                                {{--<span class="designation">Chief Executive Officer</span>--}}
                                 {{--<p>Sed in pulvinar sollicitudin augul Suspend mauris tortor, posuere ut, semper</p>--}}
-                                <ul class="member_social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
+                                {{--<ul class="member_social">--}}
+                                    {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
+                                    {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
+                                    {{--<li><a href="#"><i class="fa fa-google-plus"></i></a></li>--}}
+                                    {{--<li><a href="#"><i class="fa fa-instagram"></i></a></li>--}}
+                                    {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+                                    {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
+                                {{--</ul>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
                         {{--<ul class="timeline">--}}
                             {{--<li>--}}
                                 {{--<div class="timeline-badge">27</div>--}}
@@ -306,17 +306,44 @@
                                 {{--</div>--}}
                             {{--</li>--}}
                         {{--</ul>--}}
-                    </div>
-                </div>
+                    {{--</div>--}}
+                {{--</div>--}}
             </div>
-            <div class="col-md-4">
-                <div class="the_process">
-                    <h3 class="about_title">MISSION & VISION</h3>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="the_process" style="position: relative;text-align: -webkit-center;width: 100%;margin-top: 30px;">
+                    <h3 class="about_title hilight">MISSION & VISION</h3>
                     <p>We are proud and passionate about who we are and what we do.</p>
                     <p>Act with honesty and integrity while promoting an entrepreneurial and innovative mindset.</p>
                     <p>We also treasure diversaty and are performance driven.</p>
                 </div>
             </div>
+        </div>
+
+        <div class="row" style="margin-top: 20px;">
+            <h3 class="about_title hilight">MEET OUR CEO</h3>
+            <div class="col-md-12">
+                <div class="the_process" style="position: relative;text-align: -webkit-center;width: 100%;margin-top: -30px;">
+                    <div class="member">
+                        <div class="photo"> <img  src="images/jiggamansmall.png" alt="" class="img-circle"  /> </div>
+                        <div class="info">
+                            <h4 class="name">Jigga Man</h4>
+                            <span class="designation">Chief Executive Officer</span>
+                            {{--<ul class="member_social">--}}
+                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-google-plus"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-instagram"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
+                            {{--</ul>--}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+
         </div>
         <!-- Our Team Section
     ================================================== -->
@@ -511,56 +538,56 @@
 </div>
 <!-- / portfolio Close -->
 
-<div class="clearfix"></div>
-<!-- Parallax 03
-    ================================================== -->
-<div class="parallax parallax_c">
-    <div class="container">
-        <div class="quote-icon"><img alt="" src="images/quote.png"></div>
-        <div class="client-feed carousel slide" id="cfeed">
-            <!-- Carousel items -->
-            <div class="carousel-inner">
-                <div class="item active">
-                    <div class="cfeed-item"> <span class="cfeed-pic"><img src="http://placehold.it/140x140" alt=""></span>
-                        <div class="clearfix"></div>
-                        <p>PELLENTESQUE EU LACUS VIVAMUS LOREM ARCU SEMPER EGET ULLAMCORPER UT BLANDIT SED NISI
-                            SED LECTUS SED NON METUS VESTIBULUM EGET SED </p>
-                    </div>
-                </div>
-                <!--/item-->
-                <div class="item">
-                    <div class="cfeed-item"> <span class="cfeed-pic"><img src="http://placehold.it/140x140" alt=""></span>
-                        <div class="clearfix"></div>
-                        <p>PELLENTESQUE EU LACUS VIVAMUS LOREM ARCU SEMPER EGET ULLAMCORPER UT BLANDIT SED NISI
-                            SED LECTUS SED NON METUS VESTIBULUM EGET SED </p>
-                    </div>
-                </div>
-                <!--/item-->
-                <div class="item">
-                    <div class="cfeed-item"> <span class="cfeed-pic"><img src="http://placehold.it/140x140" alt=""></span>
-                        <div class="clearfix"></div>
-                        <p>PELLENTESQUE EU LACUS VIVAMUS LOREM ARCU SEMPER EGET ULLAMCORPER UT BLANDIT SED NISI
-                            SED LECTUS SED NON METUS VESTIBULUM EGET SED </p>
-                    </div>
-                </div>
-                <!--/item-->
-            </div>
-            <!--/carousel-inner-->
-            <a class="left-control" href="#cfeed" data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="right-control" href="#cfeed" data-slide="next"><i class="fa  fa-angle-right"></i></a> </div>
-    </div>
-</div>
-<!-- / Parallax Close Close -->
+{{--<div class="clearfix"></div>--}}
+{{--<!-- Parallax 03--}}
+    {{--================================================== -->--}}
+{{--<div class="parallax parallax_c">--}}
+    {{--<div class="container">--}}
+        {{--<div class="quote-icon"><img alt="" src="images/quote.png"></div>--}}
+        {{--<div class="client-feed carousel slide" id="cfeed">--}}
+            {{--<!-- Carousel items -->--}}
+            {{--<div class="carousel-inner">--}}
+                {{--<div class="item active">--}}
+                    {{--<div class="cfeed-item"> <span class="cfeed-pic"><img src="http://placehold.it/140x140" alt=""></span>--}}
+                        {{--<div class="clearfix"></div>--}}
+                        {{--<p>PELLENTESQUE EU LACUS VIVAMUS LOREM ARCU SEMPER EGET ULLAMCORPER UT BLANDIT SED NISI--}}
+                            {{--SED LECTUS SED NON METUS VESTIBULUM EGET SED </p>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<!--/item-->--}}
+                {{--<div class="item">--}}
+                    {{--<div class="cfeed-item"> <span class="cfeed-pic"><img src="http://placehold.it/140x140" alt=""></span>--}}
+                        {{--<div class="clearfix"></div>--}}
+                        {{--<p>PELLENTESQUE EU LACUS VIVAMUS LOREM ARCU SEMPER EGET ULLAMCORPER UT BLANDIT SED NISI--}}
+                            {{--SED LECTUS SED NON METUS VESTIBULUM EGET SED </p>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<!--/item-->--}}
+                {{--<div class="item">--}}
+                    {{--<div class="cfeed-item"> <span class="cfeed-pic"><img src="http://placehold.it/140x140" alt=""></span>--}}
+                        {{--<div class="clearfix"></div>--}}
+                        {{--<p>PELLENTESQUE EU LACUS VIVAMUS LOREM ARCU SEMPER EGET ULLAMCORPER UT BLANDIT SED NISI--}}
+                            {{--SED LECTUS SED NON METUS VESTIBULUM EGET SED </p>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<!--/item-->--}}
+            {{--</div>--}}
+            {{--<!--/carousel-inner-->--}}
+            {{--<a class="left-control" href="#cfeed" data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="right-control" href="#cfeed" data-slide="next"><i class="fa  fa-angle-right"></i></a> </div>--}}
+    {{--</div>--}}
+{{--</div>--}}
+{{--<!-- / Parallax Close Close -->--}}
 
-<div class="clearfix"></div>
-<!-- PRICE Section
-    ================================================== -->
-<div class="parice" id="communityoutreches">
-    <div class=" container">
-        <div class="head_section">
-            <h2>COMMUNITY OUTREACHES</h2>
-            <p>SED ARCU TORTOR MOLESTIE UT VARIUS CURSUS QUIS, EROS FUSCE VIVAMUS MALESUADA ANTE BIBENDUM METUS
-            INTEGER EGET LIGULA MORBI ET NEQUE PHASELLUS A AUGUE NUNC SAGITTIS DAPIBUS NISL </p>
-        </div>
+{{--<div class="clearfix"></div>--}}
+{{--<!-- PRICE Section--}}
+    {{--================================================== -->--}}
+{{--<div class="parice" id="communityoutreches">--}}
+    {{--<div class=" container">--}}
+        {{--<div class="head_section">--}}
+            {{--<h2>COMMUNITY OUTREACHES</h2>--}}
+            {{--<p>SED ARCU TORTOR MOLESTIE UT VARIUS CURSUS QUIS, EROS FUSCE VIVAMUS MALESUADA ANTE BIBENDUM METUS--}}
+            {{--INTEGER EGET LIGULA MORBI ET NEQUE PHASELLUS A AUGUE NUNC SAGITTIS DAPIBUS NISL </p>--}}
+        {{--</div>--}}
         {{--<div class="price-table">--}}
             {{--<div class="row">--}}
                 {{--<div class=" col-md-3">--}}
@@ -617,160 +644,160 @@
                 {{--</div>--}}
             {{--</div>--}}
         {{--</div>--}}
-    </div>
-</div>
-<!-- / parice Close -->
-<div class="clearfix"></div>
+    {{--</div>--}}
+{{--</div>--}}
+{{--<!-- / parice Close -->--}}
+{{--<div class="clearfix"></div>--}}
 
-<!-- Parallax 04
-    ================================================== -->
-<div class="parallax parallax_d">
-    <div class="container">
-        <h2>CARNA LOVES THE WEB</h2>
-        <p> WE MAKE BEAUTIFUL APPLICATIONS AND WEBSITES THAT ARE BUILT TO LAST AND
-            THAT IS WHY OUR CLIENTS LOVES US </p>
-        <div class="clearfix"></div>
-        <a href="#" class="plink">BUY THIS DESIGN</a> </div>
-</div>
-<!-- / Parallax Close Close -->
-<div class="clearfix"></div>
-<!--BLOG Section
-    ================================================== -->
-<div class="blog" id="blog">
-    <div class="container">
-        <div class="head_section">
-            <h2>LATEST FROM BLOG</h2>
-            <p>VIVAMUS QUIS RISUS UT TURPIS SAGITTIS VENENATIS. ALIQUAM ENIM SEM PRETIUM VITAE, POSUERE AC MATTIS VITAE ARCU</p>
-            <div class="blog-carousel-control"> <a class="left fa fa-angle-left" href="#blogCarousel" data-slide="prev"></a> <a class="right fa fa-angle-right" href="#blogCarousel" data-slide="next"></a> </div>
-        </div>
-        <div class="row">
-            <div id="blogCarousel" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="item active">
-                        <div class="row">
-                            <div class="col-sm-4">
-                                <div class="post-item">
-                                    <div class="post-headre">
-                                        <div class="post-seam">
-                                            <div class="date"> <span>10</span> FEB </div>
-                                            <div class="auther-pic"><img src="http://placehold.it/140x140" alt=""></div>
-                                        </div>
-                                        <div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>
-                                    </div>
-                                    <div class="post-content">
-                                        <h4>SUSPENDISSE NUNC SUSPE</h4>
-                                        <p>Eed in pulvinar sollicitudin augul Suspend mauris tort
-                                            posere semper eget cosngue eget arcu. Nam leo
-                                            pharetra in blandit adg tincidunt</p>
-                                    </div>
-                                    <div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="post-item">
-                                    <div class="post-headre">
-                                        <div class="post-seam">
-                                            <div class="date"> <span>10</span> FEB </div>
-                                            <div class="auther-pic"><img src="http://placehold.it/75x75" alt=""></div>
-                                        </div>
-                                        <div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>
-                                    </div>
-                                    <div class="post-content">
-                                        <h4>SUSPENDISSE NUNC SUSPE</h4>
-                                        <p>Eed in pulvinar sollicitudin augul Suspend mauris tort
-                                            posere semper eget cosngue eget arcu. Nam leo
-                                            pharetra in blandit adg tincidunt</p>
-                                    </div>
-                                    <div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="post-item">
-                                    <div class="post-headre">
-                                        <div class="post-seam">
-                                            <div class="date"> <span>10</span> FEB </div>
-                                            <div class="auther-pic"><img src="http://placehold.it/75x75" alt=""></div>
-                                        </div>
-                                        <div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>
-                                    </div>
-                                    <div class="post-content">
-                                        <h4>SUSPENDISSE NUNC SUSPE</h4>
-                                        <p>Eed in pulvinar sollicitudin augul Suspend mauris tort
-                                            posere semper eget cosngue eget arcu. Nam leo
-                                            pharetra in blandit adg tincidunt</p>
-                                    </div>
-                                    <div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="row">
-                            <div class="col-sm-4">
-                                <div class="post-item">
-                                    <div class="post-headre">
-                                        <div class="post-seam">
-                                            <div class="date"> <span>10</span> FEB </div>
-                                            <div class="auther-pic"><img src="http://placehold.it/140x140" alt=""></div>
-                                        </div>
-                                        <div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>
-                                    </div>
-                                    <div class="post-content">
-                                        <h4>SUSPENDISSE NUNC SUSPE</h4>
-                                        <p>Eed in pulvinar sollicitudin augul Suspend mauris tort
-                                            posere semper eget cosngue eget arcu. Nam leo
-                                            pharetra in blandit adg tincidunt</p>
-                                    </div>
-                                    <div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="post-item">
-                                    <div class="post-headre">
-                                        <div class="post-seam">
-                                            <div class="date"> <span>10</span> FEB </div>
-                                            <div class="auther-pic"><img src="http://placehold.it/75x75" alt=""></div>
-                                        </div>
-                                        <div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>
-                                    </div>
-                                    <div class="post-content">
-                                        <h4>SUSPENDISSE NUNC SUSPE</h4>
-                                        <p>Eed in pulvinar sollicitudin augul Suspend mauris tort
-                                            posere semper eget cosngue eget arcu. Nam leo
-                                            pharetra in blandit adg tincidunt</p>
-                                    </div>
-                                    <div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="post-item">
-                                    <div class="post-headre">
-                                        <div class="post-seam">
-                                            <div class="date"> <span>10</span> FEB </div>
-                                            <div class="auther-pic"><img src="http://placehold.it/75x75" alt=""></div>
-                                        </div>
-                                        <div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>
-                                    </div>
-                                    <div class="post-content">
-                                        <h4>SUSPENDISSE NUNC SUSPE</h4>
-                                        <p>Eed in pulvinar sollicitudin augul Suspend mauris tort
-                                            posere semper eget cosngue eget arcu. Nam leo
-                                            pharetra in blandit adg tincidunt</p>
-                                    </div>
-                                    <div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- / blog Close -->
-<div class="clearfix"></div>
-<!-- Parallax 05
-    ================================================== -->
+{{--<!-- Parallax 04--}}
+    {{--================================================== -->--}}
+{{--<div class="parallax parallax_d">--}}
+    {{--<div class="container">--}}
+        {{--<h2>CARNA LOVES THE WEB</h2>--}}
+        {{--<p> WE MAKE BEAUTIFUL APPLICATIONS AND WEBSITES THAT ARE BUILT TO LAST AND--}}
+            {{--THAT IS WHY OUR CLIENTS LOVES US </p>--}}
+        {{--<div class="clearfix"></div>--}}
+        {{--<a href="#" class="plink">BUY THIS DESIGN</a> </div>--}}
+{{--</div>--}}
+{{--<!-- / Parallax Close Close -->--}}
+{{--<div class="clearfix"></div>--}}
+{{--<!--BLOG Section--}}
+    {{--================================================== -->--}}
+{{--<div class="blog" id="blog">--}}
+    {{--<div class="container">--}}
+        {{--<div class="head_section">--}}
+            {{--<h2>LATEST FROM BLOG</h2>--}}
+            {{--<p>VIVAMUS QUIS RISUS UT TURPIS SAGITTIS VENENATIS. ALIQUAM ENIM SEM PRETIUM VITAE, POSUERE AC MATTIS VITAE ARCU</p>--}}
+            {{--<div class="blog-carousel-control"> <a class="left fa fa-angle-left" href="#blogCarousel" data-slide="prev"></a> <a class="right fa fa-angle-right" href="#blogCarousel" data-slide="next"></a> </div>--}}
+        {{--</div>--}}
+        {{--<div class="row">--}}
+            {{--<div id="blogCarousel" class="carousel slide" data-ride="carousel">--}}
+                {{--<div class="carousel-inner">--}}
+                    {{--<div class="item active">--}}
+                        {{--<div class="row">--}}
+                            {{--<div class="col-sm-4">--}}
+                                {{--<div class="post-item">--}}
+                                    {{--<div class="post-headre">--}}
+                                        {{--<div class="post-seam">--}}
+                                            {{--<div class="date"> <span>10</span> FEB </div>--}}
+                                            {{--<div class="auther-pic"><img src="http://placehold.it/140x140" alt=""></div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="post-content">--}}
+                                        {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                                        {{--<p>Eed in pulvinar sollicitudin augul Suspend mauris tort--}}
+                                            {{--posere semper eget cosngue eget arcu. Nam leo--}}
+                                            {{--pharetra in blandit adg tincidunt</p>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                            {{--<div class="col-sm-4">--}}
+                                {{--<div class="post-item">--}}
+                                    {{--<div class="post-headre">--}}
+                                        {{--<div class="post-seam">--}}
+                                            {{--<div class="date"> <span>10</span> FEB </div>--}}
+                                            {{--<div class="auther-pic"><img src="http://placehold.it/75x75" alt=""></div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="post-content">--}}
+                                        {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                                        {{--<p>Eed in pulvinar sollicitudin augul Suspend mauris tort--}}
+                                            {{--posere semper eget cosngue eget arcu. Nam leo--}}
+                                            {{--pharetra in blandit adg tincidunt</p>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                            {{--<div class="col-sm-4">--}}
+                                {{--<div class="post-item">--}}
+                                    {{--<div class="post-headre">--}}
+                                        {{--<div class="post-seam">--}}
+                                            {{--<div class="date"> <span>10</span> FEB </div>--}}
+                                            {{--<div class="auther-pic"><img src="http://placehold.it/75x75" alt=""></div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="post-content">--}}
+                                        {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                                        {{--<p>Eed in pulvinar sollicitudin augul Suspend mauris tort--}}
+                                            {{--posere semper eget cosngue eget arcu. Nam leo--}}
+                                            {{--pharetra in blandit adg tincidunt</p>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                    {{--<div class="item">--}}
+                        {{--<div class="row">--}}
+                            {{--<div class="col-sm-4">--}}
+                                {{--<div class="post-item">--}}
+                                    {{--<div class="post-headre">--}}
+                                        {{--<div class="post-seam">--}}
+                                            {{--<div class="date"> <span>10</span> FEB </div>--}}
+                                            {{--<div class="auther-pic"><img src="http://placehold.it/140x140" alt=""></div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="post-content">--}}
+                                        {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                                        {{--<p>Eed in pulvinar sollicitudin augul Suspend mauris tort--}}
+                                            {{--posere semper eget cosngue eget arcu. Nam leo--}}
+                                            {{--pharetra in blandit adg tincidunt</p>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                            {{--<div class="col-sm-4">--}}
+                                {{--<div class="post-item">--}}
+                                    {{--<div class="post-headre">--}}
+                                        {{--<div class="post-seam">--}}
+                                            {{--<div class="date"> <span>10</span> FEB </div>--}}
+                                            {{--<div class="auther-pic"><img src="http://placehold.it/75x75" alt=""></div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="post-content">--}}
+                                        {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                                        {{--<p>Eed in pulvinar sollicitudin augul Suspend mauris tort--}}
+                                            {{--posere semper eget cosngue eget arcu. Nam leo--}}
+                                            {{--pharetra in blandit adg tincidunt</p>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                            {{--<div class="col-sm-4">--}}
+                                {{--<div class="post-item">--}}
+                                    {{--<div class="post-headre">--}}
+                                        {{--<div class="post-seam">--}}
+                                            {{--<div class="date"> <span>10</span> FEB </div>--}}
+                                            {{--<div class="auther-pic"><img src="http://placehold.it/75x75" alt=""></div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="post-image"> <a href="#"><i class="fa fa-film"></i></a> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="post-content">--}}
+                                        {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                                        {{--<p>Eed in pulvinar sollicitudin augul Suspend mauris tort--}}
+                                            {{--posere semper eget cosngue eget arcu. Nam leo--}}
+                                            {{--pharetra in blandit adg tincidunt</p>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="coments"><i class="fa fa-comment-o"></i>5 Comments</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</div>--}}
+{{--</div>--}}
+{{--<!-- / blog Close -->--}}
+{{--<div class="clearfix"></div>--}}
+{{--<!-- Parallax 05--}}
+
 <div class="parallax parallax_e" id="bgvideo">
     <p id="video-controls" class="videocontrol"><a href="#" class="tubular-play">Play</a> | <a href="#" class="tubular-pause">Pause</a></p>
     <div class="container vicontent"> <a class="video_ic"><i class="fa fa-video-camera"></i></a>
