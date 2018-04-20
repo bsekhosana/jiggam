@@ -546,11 +546,11 @@
             <p>OUR CLIENTS WHO LOVE TO HIRE US FOR THEIR PROJECTS</p>
         </div>
         <ul class="client_logo">
-            <li><a href="#"><img src="images/logo-01.jpg" alt=""></a></li>
-            <li><a href="#"><img src="images/logo-02.jpg" alt=""></a></li>
-            <li><a href="#"><img src="images/logo-03.jpg" alt=""></a></li>
-            <li><a href="#"><img src="images/logo-04.jpg" alt=""></a></li>
-            <li><a href="#"><img src="images/logo-05.jpg" alt=""></a></li>
+            <li><a href="#"><img src="images/1ea1d_HarryGwala.jpg" alt=""></a></li>
+            <li><a href="#"><img src="images/Ethekwini-Municipality.jpg" alt=""></a></li>
+            <li><a href="#"><img src="images/Imbabazane-logo1.jpg" alt=""></a></li>
+            <li><a href="#"><img src="images/UGU-Logo1.jpg" alt=""></a></li>
+            <li><a href="#"><img src="images/umzumbe-municipality.jpg" alt=""></a></li>
         </ul>
     </div>
 </div>
