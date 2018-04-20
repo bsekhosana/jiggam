@@ -64,8 +64,8 @@
             <span  class="sequence-next"></span>
             <ul class="sequence-canvas">
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/2018-04-18-PHOTO-00000073.jpg')">
-                        <img src="images/2018-04-18-PHOTO-00000073.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide">
+                        <img class="img-responsive" src="images/2018-04-18-PHOTO-00000073.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             <div class="logo_slider">
                                 <div class="carnalogo">
@@ -80,8 +80,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/8017.jpg')">
-                        <img src="images/8017.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" >
+                        <img src="images/8017.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -96,8 +96,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/8030.jpg')">
-                        <img src="images/8030.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide">
+                        <img src="images/8030.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -112,8 +112,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/8087.jpg')">
-                        <img src="images/8087.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" >
+                        <img src="images/8087.jpg"  alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -128,8 +128,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/8104.jpg')">
-                        <img src="images/8104.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" >
+                        <img src="images/8104.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -144,8 +144,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/8113.jpg')">
-                        <img src="images/8113.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" >
+                        <img src="images/8113.jpg"  alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -160,8 +160,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/8117.jpg')">
-                        <img src="images/8117.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" >
+                        <img src="images/8117.jpg"  alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -176,8 +176,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/8160.jpg')">
-                        <img src="images/8160.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" >
+                        <img src="images/8160.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -354,7 +354,7 @@
 
 <!-- Service Section
     ================================================== -->
-<div class="services" id="services" style="margin-top: 40px;">
+<div class="services" id="services">
     <div class="row">
         <div class="head_section">
             <h2>SERVICES & EQUIPMENT</h2>
