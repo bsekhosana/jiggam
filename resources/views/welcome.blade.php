@@ -80,8 +80,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8017.jpg')">
-                        <img src="images/7583853920_IMG_8017.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" style="background:url('../images/8017.jpg')">
+                        <img src="images/8017.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -96,8 +96,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8030.jpg')">
-                        <img src="images/7583853920_IMG_8030.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" style="background:url('../images/8030.jpg')">
+                        <img src="images/8030.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -112,8 +112,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8087.jpg')">
-                        <img src="images/7583853920_IMG_8087.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" style="background:url('../images/8087.jpg')">
+                        <img src="images/8087.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -128,8 +128,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8104.jpg')">
-                        <img src="images/7583853920_IMG_8104.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" style="background:url('../images/8104.jpg')">
+                        <img src="images/8104.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -144,8 +144,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8113.jpg')">
-                        <img src="images/7583853920_IMG_8113.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" style="background:url('../images/8113.jpg')">
+                        <img src="images/8113.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -160,8 +160,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8117.jpg')">
-                        <img src="images/7583853920_IMG_8117.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" style="background:url('../images/8117.jpg')">
+                        <img src="images/8117.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
@@ -176,8 +176,8 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8160.jpg')">
-                        <img src="images/7583853920_IMG_8160.jpg" style="display:none;" alt=""/>
+                    <div class="single_slide" style="background:url('../images/8160.jpg')">
+                        <img src="images/8160.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
                                 {{--<div class="carnalogo">--}}
