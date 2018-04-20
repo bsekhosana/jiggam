@@ -8,7 +8,7 @@
     <title>Jiggaman Civils & Plant Hire</title>
 
     <!-- Bootstrap core CSS -->
-    <meta name="keywords" content="civils, plant hire, jiggaman, jigga man, plant, hire, planthire, rent out">
+    <meta name="keywords" content="civils, plant hire, jiggaman, jigga man, plant, hire, planthire, rent out, logistics, low bed">
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
@@ -447,19 +447,10 @@
 <div class="portfolio" id="portfolio">
     <div class="container">
         <div class="head_section">
-            <h2>OUR CREATIVE PORTFOLIO</h2>
-            <p>VIVAMUS QUIS RISUS UT TURPIS SAGITTIS VENENATIS. ALIQUAM ENIM SEM PRETIUM VITAE, POSUERE AC MATTIS VITAE ARCU</p>
+            <h2>OUR PORTFOLIO</h2>
         </div>
     </div>
     <div class="folio">
-        <ul class="option-set clearfix" id="portfolioFilter">
-            <li><a href="#" data-filter="*" class="current">ALL</a></li>
-            <li><a href="#" data-filter=".branding">BRANDING</a></li>
-            <li><a href="#" data-filter=".web">WEB</a></li>
-            <li><a href="#" data-filter=".logo">LOGO DESIGN</a></li>
-            <li><a href="#" data-filter=".photography">PHOTOGRAPHY</a></li>
-            <li><a href="#" data-filter=".recent">MOST RECENT</a></li>
-        </ul>
         <div class="portfolioContainer">
             <div class="item branding">
                 <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
@@ -884,8 +875,9 @@
 <script type="text/javascript" src="js/jquery.tubular.1.0.js"></script>
 <script src="js/sequencejs-options.js"></script>
 <script type="text/javascript" src="js/docs.min.js"></script>
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="js/gmap3.js"></script>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyB6ZbS4H-QGl90TyoAzWhXVem-OW5ccUcc"></script>
+
 <script type="text/javascript">
     $('#test1').gmap3({
         map:{
