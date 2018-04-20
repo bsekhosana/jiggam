@@ -354,92 +354,110 @@
 
 <!-- Service Section
     ================================================== -->
-<div class="services" id="services">
-    {{--<div class="container">--}}
-        {{--<div class="row">--}}
-            {{--<div class="col-md-3 col-sm-6">--}}
-                {{--<div class="service_tiem">--}}
-                    {{--<div class="sicon"><i class="fa fa-cogs"></i></div>--}}
-                    {{--<h2>WEB DESIGN</h2>--}}
-                    {{--<p>Sed in pulvinar sollicitudin augul Suspend mauris tortor, posuere ut, semper eget--}}
-                        {{--cosngue eget arcu.</p>--}}
-                    {{--<a class="more" href="#"><i class="fa fa-angle-right"></i></a> </div>--}}
-            {{--</div>--}}
-            {{--<div class="col-md-3 col-sm-6">--}}
-                {{--<div class="service_tiem">--}}
-                    {{--<div class="sicon"><i class="fa fa-camera-retro"></i></div>--}}
-                    {{--<h2>PHOTOGRAPHY</h2>--}}
-                    {{--<p>Sed in pulvinar sollicitudin augul Suspend mauris tortor, posuere ut, semper eget--}}
-                        {{--cosngue eget arcu.</p>--}}
-                    {{--<a class="more" href="#"><i class="fa fa-angle-right"></i></a> </div>--}}
-            {{--</div>--}}
-            {{--<div class="col-md-3 col-sm-6">--}}
-                {{--<div class="service_tiem">--}}
-                    {{--<div class="sicon"><i class="fa fa-rocket"></i></div>--}}
-                    {{--<h2>BRANDING & IDENTITY</h2>--}}
-                    {{--<p>Sed in pulvinar sollicitudin augul Suspend mauris tortor, posuere ut, semper eget--}}
-                        {{--cosngue eget arcu.</p>--}}
-                    {{--<a class="more" href="#"><i class="fa fa-angle-right"></i></a> </div>--}}
-            {{--</div>--}}
-            {{--<div class="col-md-3 col-sm-6">--}}
-                {{--<div class="service_tiem">--}}
-                    {{--<div class="sicon"><i class="fa fa-trello"></i></div>--}}
-                    {{--<h2>RESPONSIVE</h2>--}}
-                    {{--<p>Sed in pulvinar sollicitudin augul Suspend mauris tortor, posuere ut, semper eget--}}
-                        {{--cosngue eget arcu.</p>--}}
-                    {{--<a class="more" href="#"><i class="fa fa-angle-right"></i></a> </div>--}}
-            {{--</div>--}}
-        {{--</div>--}}
-    {{--</div>--}}
-    <div class="feature">
-        <div class="container">
-            <div class="head_section">
-                <h2>SERVICES & EQUIPMENT</h2>
-                <p></p>
-            </div>
-            <div class="feature-content">
-                <div class="feature_list left">
-                    <ul>
-                        <li class="line1">
-                            <div class="ficon"><i class="fa fa-desktop"></i></div>
-                            <div  class="fcontent">
-                                <h4>Search Engine Optimization</h4>
-                                <p>Sed in pulvinar sollicitudin augul Suspend<br>
-                                    mauris tortor, posuere ut, semper eget</p>
-                            </div>
-                        </li>
-                        <li class="line2">
-                            <div class="ficon"><i class="fa fa-beer"></i></div>
-                            <div  class="fcontent">
-                                <h4>Marketing</h4>
-                                <p>Sed in pulvinar sollicitudin augul Suspend <br>
-                                    mauris tortor, posuere ut, semper eget</p>
-                            </div>
-                        </li>
-                    </ul>
+<div class="services" id="services" style="margin-top: 40px;">
+    <div class="row">
+        <div class="head_section">
+            <h2>SERVICES & EQUIPMENT</h2>
+        </div>
+    </div>
+    <div class="container">
+        <div class="item active">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="post-item">
+                        <div class="post-headre">
+                            <div class="post-image"> <img src="/images/10M Tipper Truck.jpg" alt="" /></div>
+                        </div>
+                        <div class="post-content">
+                            <h4>10M TIPPER TRUCK</h4>
+                        </div>
+                    </div>
                 </div>
-                <div class="feature_image"><img src="images/feature_image.png" alt=""></div>
-                <div class="feature_list right">
-                    <ul>
-                        <li class="line3">
-                            <div class="ficon"><i class="fa fa-tachometer"></i></div>
-                            <div  class="fcontent">
-                                <h4>Search Engine Optimization</h4>
-                                <p>Sed in pulvinar sollicitudin augul Suspend<br>
-                                    mauris tortor, posuere ut, semper eget</p>
-                            </div>
-                        </li>
-                        <li class="line4">
-                            <div class="ficon dark"><i class="fa fa-cloud-upload"></i></div>
-                            <div  class="fcontent">
-                                <h4>Marketing</h4>
-                                <p>Sed in pulvinar sollicitudin augul Suspend <br>
-                                    mauris tortor, posuere ut, semper eget</p>
-                            </div>
-                        </li>
-                    </ul>
+                <div class="col-sm-4">
+                    <div class="post-item">
+                        <div class="post-headre">
+                            <div class="post-image"> <img src="/images/140h grader.jpg" alt="" /></div>
+                        </div>
+                        <div class="post-content">
+                            <h4>140H GRADER</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="post-item">
+                        <div class="post-headre">
+                            <div class="post-image"> <img src="/images/Escavator.jpg" alt="" /></div>
+                        </div>
+                        <div class="post-content">
+                            <h4>ESCAVATOR</h4>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="post-item">
+                        <div class="post-headre">
+                            <div class="post-image"> <img src="/images/Smooth drum roller.jpg" alt="" /></div>
+                        </div>
+                        <div class="post-content">
+                            <h4>SMOOTH DRUM ROLLER</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="post-item">
+                        <div class="post-headre">
+                            <div class="post-image"> <img src="/images/Water tank.jpg" alt="" /></div>
+                        </div>
+                        <div class="post-content">
+                            <h4>WATER TANK</h4>
+                        </div>
+                    </div>
+                </div>
+                {{--<div class="col-sm-4">--}}
+                    {{--<div class="post-item">--}}
+                        {{--<div class="post-headre">--}}
+                            {{--<div class="post-image"> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                        {{--</div>--}}
+                        {{--<div class="post-content">--}}
+                            {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            </div>
+            {{--<div class="row">--}}
+                {{--<div class="col-sm-4">--}}
+                    {{--<div class="post-item">--}}
+                        {{--<div class="post-headre">--}}
+                            {{--<div class="post-image"> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                        {{--</div>--}}
+                        {{--<div class="post-content">--}}
+                            {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<div class="col-sm-4">--}}
+                    {{--<div class="post-item">--}}
+                        {{--<div class="post-headre">--}}
+                            {{--<div class="post-image"> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                        {{--</div>--}}
+                        {{--<div class="post-content">--}}
+                            {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<div class="col-sm-4">--}}
+                    {{--<div class="post-item">--}}
+                        {{--<div class="post-headre">--}}
+                            {{--<div class="post-image"> <img src="http://placehold.it/740x450" alt="" /></div>--}}
+                        {{--</div>--}}
+                        {{--<div class="post-content">--}}
+                            {{--<h4>SUSPENDISSE NUNC SUSPE</h4>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
         </div>
     </div>
 </div>
