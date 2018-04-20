@@ -498,43 +498,43 @@
     <div class="folio">
         <div class="portfolioContainer">
             <div class="item branding">
-                <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
-                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> <span>LOGO DESIGN</span> </a> </div>
+                <div class="pimg-wrap"> <img src="/images/IMG-3257.JPG" alt="image">
+                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> </a> </div>
                 </div>
             </div>
             <div class="item people web">
-                <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
-                    <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i> <span>LOGO DESIGN</span> </a></div>
+                <div class="pimg-wrap"> <img src="/images/IMG-3258.JPG" alt="image">
+                    <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i> </a></div>
                 </div>
             </div>
             <div class="item branding recent">
-                <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
-                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> <span>LOGO DESIGN</span> </a></div>
+                <div class="pimg-wrap"> <img src="/images/IMG-3259.JPG" alt="image">
+                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> </a></div>
                 </div>
             </div>
             <div class="item people web">
-                <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
-                    <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i> <span>LOGO DESIGN</span> </a></div>
+                <div class="pimg-wrap"> <img src="/images/IMG-3260.JPG" alt="image">
+                    <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i> </a></div>
                 </div>
             </div>
             <div class="item branding photography">
-                <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
-                    <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i> <span>LOGO DESIGN</span> </a></div>
+                <div class="pimg-wrap"> <img src="/images/IMG-3261.JPG" alt="image">
+                    <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i></a></div>
                 </div>
             </div>
             <div class="item recent web photography">
-                <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
-                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> <span>LOGO DESIGN</span> </a> </div>
+                <div class="pimg-wrap"> <img src="/images/IMG-3262.JPG" alt="image">
+                    <div class="pmask"> <img src="/images/IMG-3262.JPG" alt="image"> </div>
                 </div>
             </div>
             <div class="item branding logo">
-                <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
-                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> <span>LOGO DESIGN</span> </a></div>
+                <div class="pimg-wrap"> <img src="/images/IMG-3263.JPG" alt="image">
+                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i>  </a></div>
                 </div>
             </div>
             <div class="item photography">
-                <div class="pimg-wrap"> <img src="http://placehold.it/600x450" alt="image">
-                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> <span>LOGO DESIGN</span> </a></div>
+                <div class="pimg-wrap"> <img src="/images/IMG-3264.JPG" alt="image">
+                    <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> </a></div>
                 </div>
             </div>
         </div>

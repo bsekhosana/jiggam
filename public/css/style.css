@@ -965,25 +965,25 @@ a, button, .button, .price-box, .service_tiem, .pmask, .pimg-wrap img {
 	display: block;
 	padding-bottom: 5px;
 }
-.pimg-wrap:hover img {
-	-moz-transform: scale(2);
-	-webkit-transform: scale(2);
-	-o-transform: scale(2);
-	-ms-transform: scale(2);
-	transform: scale(2);
-	opacity: 0;
-}
+/*.pimg-wrap:hover img {*/
+	/*-moz-transform: scale(2);*/
+	/*-webkit-transform: scale(2);*/
+	/*-o-transform: scale(2);*/
+	/*-ms-transform: scale(2);*/
+	/*transform: scale(2);*/
+	/*opacity: 0;*/
+/*}*/
 .pimg-wrap:hover .pmask {
 	visibility: visible;
 	opacity: 1;
 }
-.pimg-wrap:hover a {
-	-moz-transform: scale(1);
-	-webkit-transform: scale(1);
-	-o-transform: scale(1);
-	-ms-transform: scale(1);
-	transform: scale(1);
-}
+/*.pimg-wrap:hover a {*/
+	/*-moz-transform: scale(1);*/
+	/*-webkit-transform: scale(1);*/
+	/*-o-transform: scale(1);*/
+	/*-ms-transform: scale(1);*/
+	/*transform: scale(1);*/
+/*}*/
 .container-fluid >div>div{
 	margin:0;
 	padding:0;
