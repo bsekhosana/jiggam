@@ -45,8 +45,8 @@
                     <li><a href="#about">ABOUT US</a></li>
                     <li><a href="#services">SERVICES & EQUIPMENT</a></li>
                     {{--<li><a href="#projects">PROJECTS</a></li>--}}
-                    {{--<li><a href="#portfolio">PORTFOLIO</a></li>--}}
-                    <li><a href="#communityoutreches">COMMUNITY OUTREACHES</a></li>
+                    <li><a href="#portfolio">PORTFOLIO</a></li>
+                    {{--<li><a href="#communityoutreches">COMMUNITY OUTREACHES</a></li>--}}
                     {{--<li><a href="#blog">BLOG</a></li>--}}
                     <li><a href="#contact">CONTACT US</a></li>
                 </ul>
