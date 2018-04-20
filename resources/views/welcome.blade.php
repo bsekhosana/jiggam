@@ -64,7 +64,7 @@
             <span  class="sequence-next"></span>
             <ul class="sequence-canvas">
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('images/2018-04-18-PHOTO-00000073.jpg')">
+                    <div class="single_slide" style="background:url('../images/2018-04-18-PHOTO-00000073.jpg')">
                         <img src="images/2018-04-18-PHOTO-00000073.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             <div class="logo_slider">
@@ -80,7 +80,7 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('images/7583853920_IMG_8017.jpg')">
+                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8017.jpg')">
                         <img src="images/7583853920_IMG_8017.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
@@ -96,7 +96,7 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('images/7583853920_IMG_8030.jpg')">
+                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8030.jpg')">
                         <img src="images/7583853920_IMG_8030.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
@@ -112,7 +112,7 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('images/7583853920_IMG_8087.jpg')">
+                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8087.jpg')">
                         <img src="images/7583853920_IMG_8087.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
@@ -128,7 +128,7 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('images/7583853920_IMG_8104.jpg')">
+                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8104.jpg')">
                         <img src="images/7583853920_IMG_8104.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
@@ -144,7 +144,7 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('images/7583853920_IMG_8113.jpg')">
+                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8113.jpg')">
                         <img src="images/7583853920_IMG_8113.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
@@ -160,7 +160,7 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('images/7583853920_IMG_8117.jpg')">
+                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8117.jpg')">
                         <img src="images/7583853920_IMG_8117.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
@@ -176,7 +176,7 @@
                     </div>
                 </li>
                 <li class="animate-in">
-                    <div class="single_slide" style="background:url('images/7583853920_IMG_8160.jpg')">
+                    <div class="single_slide" style="background:url('../images/7583853920_IMG_8160.jpg')">
                         <img src="images/7583853920_IMG_8160.jpg" style="display:none;" alt=""/>
                         <div class="slide_caption">
                             {{--<div class="logo_slider">--}}
