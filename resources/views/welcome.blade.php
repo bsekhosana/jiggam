@@ -64,17 +64,15 @@
             <span  class="sequence-next"></span>
             <ul class="sequence-canvas">
                 <li class="animate-in">
-                    <div class="single_slide">
-                        <img class="img-responsive" src="images/2018-04-18-PHOTO-00000073.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
+                    <div class="single_slide" >
+                        <img src="images/IMG_7762.JPG" alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
                             <div class="logo_slider">
-                                <div class="carnalogo">
-
-                                </div>
+                                <p>WOSIYANE
+                                    <br/><br/>
+                                    GCUGCWA</p>
                             </div>
-                            <p>WOSIYANE
-                            <br/><br/>
-                            GCUGCWA</p>
+                            {{--<p>A CREATIVE DESIGN AGENCY<br/>WITH BRIGHTER IDEAS THAT WORK</p>--}}
                             {{--<a href="#">Sign up today</a>--}}
                         </div>
                     </div>
@@ -83,45 +81,11 @@
                     <div class="single_slide" >
                         <img src="images/8017.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
                         <div class="slide_caption">
-                            {{--<div class="logo_slider">--}}
-                                {{--<div class="carnalogo">--}}
-                                    {{--<div class="slide-logo">--}}
-                                        {{--<h1>C</h1>--}}
-                                        {{--<span>CARNA</span> </div>--}}
-                                {{--</div>--}}
-                            {{--</div>--}}
-                            {{--<p>A CREATIVE DESIGN AGENCY<br/>WITH BRIGHTER IDEAS THAT WORK</p>--}}
-                            {{--<a href="#">Sign up today</a>--}}
-                        </div>
-                    </div>
-                </li>
-                <li class="animate-in">
-                    <div class="single_slide">
-                        <img src="images/8030.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
-                        <div class="slide_caption">
-                            {{--<div class="logo_slider">--}}
-                                {{--<div class="carnalogo">--}}
-                                    {{--<div class="slide-logo">--}}
-                                        {{--<h1>C</h1>--}}
-                                        {{--<span>CARNA</span> </div>--}}
-                                {{--</div>--}}
-                            {{--</div>--}}
-                            {{--<p>A CREATIVE DESIGN AGENCY<br/>WITH BRIGHTER IDEAS THAT WORK</p>--}}
-                            {{--<a href="#">Sign up today</a>--}}
-                        </div>
-                    </div>
-                </li>
-                <li class="animate-in">
-                    <div class="single_slide" >
-                        <img src="images/8087.jpg"  alt="" style="top:0;left:0;width:100%;height:100%"/>
-                        <div class="slide_caption">
-                            {{--<div class="logo_slider">--}}
-                                {{--<div class="carnalogo">--}}
-                                    {{--<div class="slide-logo">--}}
-                                        {{--<h1>C</h1>--}}
-                                        {{--<span>CARNA</span> </div>--}}
-                                {{--</div>--}}
-                            {{--</div>--}}
+                            <div class="logo_slider">
+                            <p>WOSIYANE
+                                <br/><br/>
+                                GCUGCWA</p>
+                            </div>
                             {{--<p>A CREATIVE DESIGN AGENCY<br/>WITH BRIGHTER IDEAS THAT WORK</p>--}}
                             {{--<a href="#">Sign up today</a>--}}
                         </div>
@@ -175,27 +139,8 @@
                         </div>
                     </div>
                 </li>
-                <li class="animate-in">
-                    <div class="single_slide" >
-                        <img src="images/8160.jpg" alt="" style="top:0;left:0;width:100%;height:100%"/>
-                        <div class="slide_caption">
-                            {{--<div class="logo_slider">--}}
-                                {{--<div class="carnalogo">--}}
-                                    {{--<div class="slide-logo">--}}
-                                        {{--<h1>C</h1>--}}
-                                        {{--<span>CARNA</span> </div>--}}
-                                {{--</div>--}}
-                            {{--</div>--}}
-                            {{--<p>A CREATIVE DESIGN AGENCY<br/>WITH BRIGHTER IDEAS THAT WORK</p>--}}
-                            {{--<a href="#">Sign up today</a>--}}
-                        </div>
-                    </div>
-                </li>
             </ul>
             <ul class="sequence-pagination">
-                <li></li>
-                <li></li>
-                <li></li>
                 <li></li>
                 <li></li>
                 <li></li>
@@ -366,7 +311,7 @@
                 <div class="col-sm-4">
                     <div class="post-item">
                         <div class="post-headre">
-                            <div class="post-image"> <img src="/images/10M Tipper Truck.jpg" alt="" /></div>
+                            <div class="post-image"> <img src="/images/IMG_7725.JPG" alt="" /></div>
                         </div>
                         <div class="post-content">
                             <h4>10M TIPPER TRUCK</h4>
@@ -376,7 +321,7 @@
                 <div class="col-sm-4">
                     <div class="post-item">
                         <div class="post-headre">
-                            <div class="post-image"> <img src="/images/140h grader.jpg" alt="" /></div>
+                            <div class="post-image"> <img src="/images/e7049de5-53b2-4f5b-ac39-c03a3be4d5d1.JPG" alt="" /></div>
                         </div>
                         <div class="post-content">
                             <h4>140H GRADER</h4>
@@ -386,7 +331,7 @@
                 <div class="col-sm-4">
                     <div class="post-item">
                         <div class="post-headre">
-                            <div class="post-image"> <img src="/images/Escavator.jpg" alt="" /></div>
+                            <div class="post-image"> <img src="/images/6c2ddbcf-f608-4405-8394-19e1861ffe6e 2.JPG" alt="" /></div>
                         </div>
                         <div class="post-content">
                             <h4>ESCAVATOR</h4>
@@ -398,7 +343,7 @@
                 <div class="col-sm-4">
                     <div class="post-item">
                         <div class="post-headre">
-                            <div class="post-image"> <img src="/images/Smooth drum roller.jpg" alt="" /></div>
+                            <div class="post-image"> <img src="/images/IMG_8029.JPG" alt="" /></div>
                         </div>
                         <div class="post-content">
                             <h4>SMOOTH DRUM ROLLER</h4>
@@ -408,7 +353,7 @@
                 <div class="col-sm-4">
                     <div class="post-item">
                         <div class="post-headre">
-                            <div class="post-image"> <img src="/images/Water tank.jpg" alt="" /></div>
+                            <div class="post-image"> <img src="/images/IMG_7982.JPG" alt="" /></div>
                         </div>
                         <div class="post-content">
                             <h4>WATER TANK</h4>
