@@ -233,15 +233,15 @@
                         <div class="whbanner carousel slide" id="whBanner">
                             <!-- Carousel items -->
                             <div class="carousel-inner">
-                                <div class="item active"> <img src="/images/jman1.2.png" alt=""> </div>
+                                {{--<div class="item active"> <img src="/images/jman1.2.png" alt=""> </div>--}}
                                 <!--/item-->
-                                <div class="item"> <img src="/images/Text.png" alt=""> </div>
+                                <div class="item active"> <img src="/images/Text.png" alt=""> </div>
                                 <!--/item-->
-                                <div class="item"> <img src="/images/jman1.4.png" alt=""> </div>
+                                {{--<div class="item"> <img src="/images/jman1.4.png" alt=""> </div>--}}
                                 <!--/item-->
                             </div>
                             <!--/carousel-inner-->
-                            <a class="left-control" href="#whBanner" data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="right-control" href="#whBanner" data-slide="next"><i class="fa  fa-angle-right"></i></a> </div>
+                            {{--<a class="left-control" href="#whBanner" data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="right-control" href="#whBanner" data-slide="next"><i class="fa  fa-angle-right"></i></a> </div>--}}
                         <p style="font-size: 18px;line-height: 19px;">We are a 100% black owned company, aiming at uplifting the community by offering optimum service.</p>
                         <p style="font-size: 18px;line-height: 19px;">The ultimate vision is to obtain a crime free society of people who can create various money making ideas, driven by passion</p>
                     </div>
@@ -498,42 +498,42 @@
     <div class="folio">
         <div class="portfolioContainer">
             <div class="item branding">
-                <div class="pimg-wrap"> <img src="/images/IMG-3257.JPG" alt="image">
+                <div class="pimg-wrap"> <img src="/images/IMG_3433.JPG" alt="image">
                     <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> </a> </div>
                 </div>
             </div>
             <div class="item people web">
-                <div class="pimg-wrap"> <img src="/images/IMG-3258.JPG" alt="image">
+                <div class="pimg-wrap"> <img src="/images/IMG_3434.JPG" alt="image">
                     <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i> </a></div>
                 </div>
             </div>
             <div class="item branding recent">
-                <div class="pimg-wrap"> <img src="/images/IMG-3259.JPG" alt="image">
+                <div class="pimg-wrap"> <img src="/images/IMG_3435.JPG" alt="image">
                     <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> </a></div>
                 </div>
             </div>
             <div class="item people web">
-                <div class="pimg-wrap"> <img src="/images/IMG-3260.JPG" alt="image">
+                <div class="pimg-wrap"> <img src="/images/IMG_3436.JPG" alt="image">
                     <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i> </a></div>
                 </div>
             </div>
             <div class="item branding photography">
-                <div class="pimg-wrap"> <img src="/images/IMG-3261.JPG" alt="image">
+                <div class="pimg-wrap"> <img src="/images/IMG_3437.JPG" alt="image">
                     <div class="pmask"><a href="#"> <i class="fa fa-leaf"></i></a></div>
                 </div>
             </div>
             <div class="item recent web photography">
-                <div class="pimg-wrap"> <img src="/images/IMG-3262.JPG" alt="image">
+                <div class="pimg-wrap"> <img src="/images/IMG_3438.JPG" alt="image">
                     <div class="pmask"> <img src="/images/IMG-3262.JPG" alt="image"> </div>
                 </div>
             </div>
             <div class="item branding logo">
-                <div class="pimg-wrap"> <img src="/images/IMG-3263.JPG" alt="image">
+                <div class="pimg-wrap"> <img src="/images/IMG_3439.JPG" alt="image">
                     <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i>  </a></div>
                 </div>
             </div>
             <div class="item photography">
-                <div class="pimg-wrap"> <img src="/images/IMG-3264.JPG" alt="image">
+                <div class="pimg-wrap"> <img src="/images/IMG_3440.JPG" alt="image">
                     <div class="pmask"> <a href="#"> <i class="fa fa-leaf"></i> </a></div>
                 </div>
             </div>
